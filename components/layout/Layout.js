@@ -12,8 +12,8 @@ function Layout({ children }) {
       </header>
       <div className={styles.container}>{children}</div>
       <footer className={styles.footer}>
-        <a href="https://MehrCAR.ir" target="_blank">
-          Botostart
+        <a href="https://MehrCAR.ir" target="_blank" rel="noreferrer">
+          Mehrab
         </a>{" "}
         Next.js courses | MehrCAR Project &copy;
       </footer>
